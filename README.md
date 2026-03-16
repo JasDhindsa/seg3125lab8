@@ -21,18 +21,6 @@ This application is a functional React website designed to demonstrate human int
    *(Note: `npm start` is configured to run `vite` via `npm run dev` in the package.json)*
 4. Open the provided `localhost` link (default is usually `http://localhost:5173`) in your browser.
 
-## Deployment Instructions for Vercel
-1. Push your repository to GitHub.
-2. Go to [Vercel](https://vercel.com/) and sign in with your GitHub account.
-3. Click "Add New..." and select "Project".
-4. Import your GitHub repository for this project.
-5. In the "Configure Project" step:
-   - **Framework Preset**: Vite
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-   - **Install Command**: `npm install`
-6. Click "Deploy". Vercel will build and host your website, providing you with a live URL.
-
 ## GitHub Folder Structure
 ```
 TutorConnect/
@@ -59,3 +47,5 @@ TutorConnect/
 - **Member 3 (Interaction Logic)**: Managed form states, user data passing, and implemented the "Communicating" and "Analyzing Results" interaction processes.
 - **All Members (Database Architect)**: Prepared the initial static mock data and structured the Database Design document for Lab 9.
 *(Note: Please update the above names and roles as appropriate for your group)*
+
+Made by Team 18
