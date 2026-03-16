@@ -42,10 +42,6 @@ TutorConnect/
 ```
 
 ## Group Member Contributions
-- **Member 1 (UI/UX Designer)**: Designed the Figma prototype (Lab 7) and focused on styling and accessibility in React.
-- **Member 2 (Frontend Developer)**: Implemented the React components (`components/ui`), page layouts, and React Router navigation.
-- **Member 3 (Interaction Logic)**: Managed form states, user data passing, and implemented the "Communicating" and "Analyzing Results" interaction processes.
-- **All Members (Database Architect)**: Prepared the initial static mock data and structured the Database Design document for Lab 9.
-*(Note: Please update the above names and roles as appropriate for your group)*
+- We all worked on the project together, equally.
 
 Made by Team 18
